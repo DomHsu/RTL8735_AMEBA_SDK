@@ -1,0 +1,48 @@
+
+GitHub Update Note, sync with 9.6_r
+
+SHA-1: d22d5c8d264511d4889b603a1f2f53b48592409d
+* [amebapro2][ai glass] Update AI glass application code
+
+SHA-1: f11ec09d9ee47b572a91426f013df05600e84abc
+* [amebapro2][ai glass] add 12M snapshot and recording flow
+
+SHA-1: 46ed9f03df916dd7c890d380c1362e2064bf907e
+* [amebapro2][sdk] correct gps parser flow
+* with patch 0001-amebapro2-sdk-optimize-the-ai-glass-process
+
+SHA-1: eaac15822e7f3f5c7c38bc96e9e87274221a6fbf
+* [amebapro2][sdk] improve the wlan scenario deinit flow in ai glass
+
+SHA-1: 1b8a2cc77187387cd59dd21c278c758de77185cd
+* [amebapro2][sdk] update the ai glass command structure
+
+SHA-1: 4de7607b5717bbb102ce5496ddab058bb1a3c274
+* [amebapro2][video] update sensor driver
+
+SHA-1: ffdf093ecf58e55956886926c6a61f0265dc11a7
+* [amebapro2][wlan] opimize the wlan scenario of the ai glass
+
+SHA-1: dcc49762c18540465eea2071081082bfd4919e31
+* [amebapro2][sdk] update sc5356 iq for ai glass
+
+SHA-1: 3bdb4ad349d02ce7267c05b47b3684c1f9702b79
+* [amebapro2][sdk] optimize the iq, uart, wifi transmit in ai glass
+
+SHA-1: 078ed90cfd013ebaef36168d8d25b81cd3dfb8f5
+* [amebapro2][sdk] optimize uart, jpg, gsensor, http in ai glass scenario
+
+SHA-1: 696e9011fdc2a711625b2df2882c8876713ac866
+* [amebapro2][sdk] fix warning in ai glass scenario
+
+SHA-1: 814bf67e48e7b1da996d5bbebe84c8b2eeda4f41
+* [amebapro2][sdk] add new scenario - ai glass
+
+SHA-1: ccd2b17cbee9a5faa0004f138139c123463a8904
+* [amebapro2][video] update sensor driver & video related default setting
+
+SHA-1: de335da71c69cb58e8484e3a20ae650b5b152647
+* [amebapro2][sdk] add sceranio setting for sdk
+
+SHA-1: 1800a37a0d3d516013bf837df21f4fe8f5125b84
+* [amebapro2][wlan] avoid wifi_off crash issue

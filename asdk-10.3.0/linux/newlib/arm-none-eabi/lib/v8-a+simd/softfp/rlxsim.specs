@@ -1,0 +1,7 @@
+%rename lib                old_lib
+
+*lib:
+-T rlxsim.ld
+
+*startfile:
+rlxsim-crt0%O%s rlxsim-boot%O%s crti%O%s crtbegin%O%s
